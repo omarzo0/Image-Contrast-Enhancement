@@ -1,0 +1,11 @@
+streamlit (>=1.22.0) - For building the web app interface
+opencv-python (>=4.5.5) - For image processing and filtering
+numpy (>=1.21.0) - For numerical operations
+Pillow (>=9.0.0) - For image loading and saving
+scikit-image (>=0.19.0) - For SSIM and other image metrics
+matplotlib (>=3.5.0) - For plotting histograms and visualizations
+seaborn (>=0.11.2) - For enhanced metric visualizations
+pandas (>=1.3.0) - For data handling and metric comparisons
+scipy (>=1.7.0) - For advanced image processing (e.g., ndimage)
+plotly (optional, for interactive plots) - Alternative to matplotlib
+tqdm (optional, for progress bars) - Useful for long computations
